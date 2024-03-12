@@ -1,0 +1,101 @@
+commit 26cb14f775a0d9afbbecb2a9453393ffc7454138
+Author: arya <aryapatil7777777@gmail.com>
+Date:   Tue Mar 12 12:42:24 2024 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..0e9dcc6
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Software Engineer
+\ No newline at end of file
+
+commit b345d57a42356585d3567902fb1b43030d6e38f2
+Author: arya <aryapatil7777777@gmail.com>
+Date:   Tue Mar 12 12:37:23 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index b542463..f512713 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Arya Computer Science Taco Bell Interstellar
+\ No newline at end of file
++Arya Computer Science Taco Bell Interstellar
++Gray
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 0e9dcc6..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2026 Software Engineer
+\ No newline at end of file
+
+commit 6a71ea9ee6244ac4c2cf941edd9ed32eacbd25c8
+Author: arya <aryapatil7777777@gmail.com>
+Date:   Tue Mar 12 12:15:55 2024 +0530
+
+    Added expected graduation year and jo
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..0e9dcc6
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Software Engineer
+\ No newline at end of file
+
+commit 3e3cf58c5b004f53b5f22a7325c38dc28d946d69
+Author: arya <aryapatil7777777@gmail.com>
+Date:   Tue Mar 12 12:09:42 2024 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 9756eba..b542463 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Arya Computer Science
+\ No newline at end of file
++Arya Computer Science Taco Bell Interstellar
+\ No newline at end of file
+
+commit 0b587934e3f4ed33436d05d4370eded414881d58
+Author: arya <aryapatil7777777@gmail.com>
+Date:   Tue Mar 12 12:07:09 2024 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 701e671..9756eba 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Arya28523
+\ No newline at end of file
++Arya Computer Science
+\ No newline at end of file
+
+commit b650dea23975421846a192e90df5cd172d94aa1c
+Author: arya <aryapatil7777777@gmail.com>
+Date:   Tue Mar 12 12:02:36 2024 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..701e671
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Arya28523
+\ No newline at end of file
